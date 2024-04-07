@@ -13,9 +13,4 @@ This repository contains Python code designed to optimise task workflows in a ma
 The script is ideal for operations managers, engineers, and professionals involved in process optimisation. It can be adapted to various industrial, manufacturing, or production settings where task scheduling is critical.
 
 ## Getting Started
-Clone the repository and run the `excelSheet4.py` script in a Python environment:
-
-```bash
-git clone https://github.com/Kirill-Sorokin/Task-Workflow-Optimization.git
-cd Task-Workflow-Optimization
-python excelSheet4.py
+Clone the repository and run the `excelSheet4.py` script in a Python environment.
