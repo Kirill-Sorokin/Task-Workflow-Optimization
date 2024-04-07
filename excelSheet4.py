@@ -79,7 +79,7 @@ for start_task in starting_tasks:
         score = total_time - tool_variety * 10 + std_dev  # Example scoring formula
         all_paths_metrics.append((path, score, total_time, tool_variety, std_dev))
 
-# Sort paths by the score, ascending so that a lower score is better
+# Sort paths by the score, ascending (so that a lower score is better)
 all_paths_metrics.sort(key=lambda x: x[1])
 
 # Identify starting tasks as those with no predecessors
